@@ -1,0 +1,16 @@
+November -3;
+
+December -12;
+January -15;
+February -8;
+March -1;
+April +7;
+May +15;
+
+June +19;
+
+July +21;
+August +15;
+September +9;
+
+October +1;
