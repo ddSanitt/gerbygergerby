@@ -1,4 +1,0 @@
-Moscow 124214; SPB 2222;
-Surgut 33333;   Malmizh 43535; Kazan 657;
-
-Sochi 32452; 
